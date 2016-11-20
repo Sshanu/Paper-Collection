@@ -28,6 +28,7 @@
    
 * SSD [[Paper]](http://arxiv.org/abs/1512.02325)
    * Liu W, Anguelov D, Erhan D, et al. SSD: Single Shot MultiBox Detector[J]. arXiv preprint arXiv:1512.02325, 2015.
+   * [Link](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html#ssd)
 * Deep Residual Learning for Image Recognition [[Paper]](http://arxiv.org/abs/1512.03385)
    * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition. arXiv:1512.03385, 2015
    
